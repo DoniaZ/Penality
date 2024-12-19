@@ -1,0 +1,17 @@
+{
+  "name": "progfonctionnel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":"jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^5.1.5",
+    "jasmine": "^5.5.0",
+    "typescript": "^5.7.2"
+  }
+}
